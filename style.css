@@ -54,6 +54,10 @@ body{
     border-radius: 25px;
 }
 
+.search-box input:hover {
+    border: 0.2px solid #06283D;
+}
+
 .search-box input::placeholder{
     font-size: 20px;
     font-weight: 500;
@@ -75,6 +79,7 @@ body{
 .search-box button:hover{
     color: #fff;
     background: #06283D;
+    border: 0.2px solid #fff;
 }
 
 .search-box i{
