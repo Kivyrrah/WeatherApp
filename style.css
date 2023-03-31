@@ -55,7 +55,7 @@ body{
 }
 
 .search-box input:hover {
-    border: 0.2px solid #06283D;
+    border: 0.2px solid #dff6ff;
 }
 
 .search-box input::placeholder{
@@ -77,9 +77,9 @@ body{
 }
 
 .search-box button:hover{
-    color: #fff;
+    color: #dff6ff;
     background: #06283D;
-    border: 0.2px solid #fff;
+    border: 0.2px solid #dff6ff;
 }
 
 .search-box i{
